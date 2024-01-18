@@ -20,7 +20,7 @@ A collection of food recipes with the goal of yielding tasty reproducible result
 * Stainless microplane/grater
 * Large stainless mixing bowls (standard small/med/large set should be fine)
 * Spatula (I like stainless slotted fish turner)
-* Large (wooden) spoon (e.g. maple with at least 12 inch handle)
+* Large (wooden) spoon (e.g. 12 or 14 inch long maple)
 * Tongs (at least 6 inch)
 * Chopsticks
 * Kitchen towels (keep one exclusively for wiping up messes)
@@ -39,5 +39,5 @@ I like the cast iron/dutch oven combo since they can go from stovetop to oven an
 ## Recipes are organized by meal category:
 * Breakfast: fast, simple meals
 * Lunch/Dinner: larger meals (may take longer)
-* Dessert: snacks usually sweet 
+* [Dessert](dessert/): snacks usually sweet 
 
