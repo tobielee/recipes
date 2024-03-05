@@ -40,4 +40,4 @@ I like the cast iron/dutch oven combo since they can go from stovetop to oven an
 * Breakfast: fast, simple meals
 * Lunch/Dinner: larger meals (may take longer)
 * [Dessert](dessert/): snacks usually sweet 
-
+* [Auxiliary](auxiliary/): recipes for parts of a whole e.g. broths/sauces, doughs/crusts 
