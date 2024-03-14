@@ -16,7 +16,7 @@ A puff pastry tart filled with egg custard. Inspired by the Portuguese pastel de
 
 ##### Custard
 * 8 egg yolks
-* 470 g or 1 pt (473 mL) whipping cream
+* 470 g or 1 pt (473 mL) heavy (whipping) cream
 * 325 g or 314 mL milk
 * 1 Tablespoon vanilla extract
 * 165 g sugar (probably could go less e.g. 150 g)
@@ -25,13 +25,13 @@ A puff pastry tart filled with egg custard. Inspired by the Portuguese pastel de
 * 1 cinnamon stick (optional)
 * 1 lemon peel (optional)
 
-## Procedure:
+## Procedure
 
-##### Prepping dough for tart
+#### Prepping dough for tart
 1. Roll out puff pastry  into rectangle about 3 mm thick and roll into log
 2. Store log in fridge/freezer until custard is prepared 
 
-##### Prepping custard
+#### Prepping custard
 3. Aliquot portion of milk to mix in starch
 4. Heat rest of milk and whipping cream with optional cinnamon stick and lemon peel until barely simmering/scalded @ 180F (then take off heat),
 5. Mix in starch to milk
@@ -41,7 +41,7 @@ A puff pastry tart filled with egg custard. Inspired by the Portuguese pastel de
 9. Strain egg custard through fine mesh sieve 
 10. Store in fridge until fridge temp (maybe overnight or a few hours). Best to use within 48 hours. 
 
-##### Bake
+#### Bake
 11. Preheat oven to 410 F (210 C)
 12. Partition log by cutting with knife - 60 g piece per well in dozen well tin is decent - can adjust as needed
 13. Roll out dough, insert into muffin well,and make sure dough is touching all surfaces of tin (especially bottom), trim excess but still leave a bit of overhang
