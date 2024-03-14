@@ -2,8 +2,8 @@
 
 A puff pastry tart filled with egg custard. Inspired by the Portuguese pastel de nata and the Chinese 蛋撻.
 
-<p align="center">
-  <img width="300"  src="https://github.com/tobielee/recipes/blob/main/images/eggtart.jpg">
+<p align="left">
+  <img width="400"  src="https://github.com/tobielee/recipes/blob/main/images/eggtart.jpg">
 </p>
 
 ---
