@@ -41,15 +41,15 @@ Time required: assuming brioche dough has been made, how long it takes to get ro
 ##### Make your filling (paste)
 ###### Chocolate paste
 1. Use double boiler method to melt the dark chocolate bar. Add stick of butter to melted chocolate. Then at tablespoon of liquid.  
-2. Mix cocoa powder and confectioners suger in separate bowl, then combine with chocolate butter. Salt to taste (go by the pinch). 
+2. Mix cocoa powder and confectioners suger in separate bowl, then combine with chocolate butter. Salt to taste (go by the pinch). Make sure this is at room temp before spreading. 
 ###### Cinnamon sugar paste
 1. Get butter to room temp. Mix brown sugar and cinnamon in a bowl. 
 2. Mix in room temp butter to cinnamon sugar to make paste. Salt to taste (go by the pinch).
 
 ##### Prepare twisted rolls for muffin tin
-3. When ready to bake, roll out dough, spread paste to edge (ok if not all the way), then fold in thirds (like letter)
-4. Use cold floured knife to cut portions
-5. Make two additional cuts in rectangular portions length wise and braid at least two turns before rolling onto itself and placing in muffin tin
+3. When ready to bake, roll out dough, spread room temp paste to edge (ok if not all the way), then fold in thirds (like letter)
+4. Use cold floured knife to cut portions (You could also use twine or flavorless floss to cut portions though a knife will still be needed for cutting in next step)
+5. Make two additional cuts in rectangular portions lengthwise from one end almost to the other end, and braid (at least two "segments") before rolling onto itself and placing in muffin tin
 6. Allow dough to proof while you preheat oven to 350 F (30 mins should be enough). 
 
 Note: For a more traditional babka, you would roll the dough (instead of folding in thirds) and cut the dough in half both widthwise and lengthwise (for two loaves). You will take two portions and braid to form one loaf. Bake time will likely be on the longer side i.e. 30 -45 mins? (I actually haven't done this myself). 
