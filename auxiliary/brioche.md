@@ -8,13 +8,13 @@ An enriched bread dough consisting of egg, butter, liquid (e.g. milk) and usuall
 
 ## Ingredients
 
-1/2 Cup water or milk
-1 pkg or 7 g yeast (active dry and instant are both viable options - I haven't tried fresh yeast but I'm sure it'll work too)
-80 g sugar
-530 g flour (I like 300 g All-purpose + 230 g Bread)
-1 stick or 4 oz (114 g) unsalted butter
-3 g fine salt
-4 medium eggs (or 3 large eggs + 1 yolk)
+* 1/2 Cup water or milk
+* 1 pkg or 7 g yeast (active dry and instant are both viable options - I haven't tried fresh yeast but I'm sure it'll work too)
+* 80 g sugar
+* 530 g flour (I like 300 g All-purpose + 230 g Bread)
+* 1 stick or 4 oz (114 g) unsalted butter
+* 3 g fine salt
+* 4 medium eggs (or 3 large eggs + 1 yolk)
 
 ## Procedure
 

@@ -16,23 +16,23 @@ A sweet braided yeast-leavened bread, usually with some filling. Fillings I have
 ##### Filling options
 
 ###### Chocolate paste
-1 bar (113-115 g) 60-70% cacao dark chocolate 
-1 stick or 4 oz (114 g) salted butter (can do unsalted and adjust for salt but salted makes it easier)
-1 Tablespoon milk (could use water or your favorite liquer)
-70 g confectioners sugar
-30 g cocoa powder 
-Salt to taste (you'll need a few pinches if using unsalted butter)
+* 1 bar (113-115 g) 60-70% cacao dark chocolate 
+* 1 stick or 4 oz (114 g) salted butter (can do unsalted and adjust for salt but salted makes it easier)
+* 1 Tablespoon milk (could use water or your favorite liquer)
+* 70 g confectioners sugar
+* 30 g cocoa powder 
+* Salt to taste (you'll need a few pinches if using unsalted butter)
 
 ###### Cinnamon sugar paste
-1 stick or 4 oz (114 g) salted butter (can do unsalted and adjust for salt but salted makes it easier)
-7 g cinnamon
-150 g dark brown sugar (light brown also works)
-Salt to taste (you'll need a few pinches if using unsalted butter)
+* 1 stick or 4 oz (114 g) salted butter (can do unsalted and adjust for salt but salted makes it easier)
+* 7 g cinnamon
+* 150 g dark brown sugar (light brown also works)
+* Salt to taste (you'll need a few pinches if using unsalted butter)
 
 
 ##### Sugar glaze (simple syrup)
-72 g sugar
-1/3 Cup or 80 g water 
+* 72 g sugar
+* 1/3 Cup or 80 g water 
 
 ## Procedure
 
