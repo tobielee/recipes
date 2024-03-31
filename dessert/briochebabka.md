@@ -2,6 +2,11 @@
 
 A sweet braided yeast-leavened bread, usually with some filling. Fillings I have included in this recipe are chocolate and cinnamon sugar; you may design your own filling as well (I just like chocolate and cinnamon sugar). Inspired by Jewish, Central/Eastern European Babka - though I'm using brioche base instead of challah.
 
+<p align="left">
+  <img width="400"  src="https://github.com/tobielee/recipes/blob/main/images/briochebabka_choco.jpg">
+  <img width="400"  src="https://github.com/tobielee/recipes/blob/main/images/briochebabka_cinna.jpg">
+</p>
+
 ---
 ## Ingredients
 
