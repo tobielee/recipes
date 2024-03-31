@@ -32,7 +32,7 @@ A collection of food recipes with the goal of yielding tasty reproducible result
 Note: unless otherwise indicated, my recipes are optimized for oven and stove/range cooking.
 
 ### What of other pots/pans?
-I like the cast iron/dutch oven combo since they can go from stovetop to oven and heat distribution fairly even, which is good for baking. This combo pretty much covers majority of cooking feats, though it would be nice to have a small stainless saucepan and, less essential, a large aluminum stockpot. If you have a gas range, carbon woks would be awesome for stirfry but not everyone has a gas range.
+I like the cast iron/dutch oven combo since they can go from stovetop to oven and their heat distribution is fairly even, which is good for baking. This combo pretty much covers majority of cooking feats, though it would be nice to have a small stainless saucepan and, less essential, a large aluminum stockpot. If you have a gas range, carbon woks would be awesome for stirfry but not everyone has a gas range.
 
 ---
 

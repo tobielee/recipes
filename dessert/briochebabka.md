@@ -8,7 +8,7 @@ A sweet braided yeast-leavened bread, usually with some filling. Inspired by the
 </p>
 
 ---
-Time required: assuming brioche dough has been made, how long it takes to get room temp butter + 20 mins prep; 30-60 min second proof; 25-30 min bake
+Time required: brioche dough (20 mins prep + overnight fermentation) + room temp butter (30 mins) + 20 mins prep; 30-60 min second proof; 25-30 min bake
 
 ## Ingredients
 
@@ -25,7 +25,7 @@ Fillings I have included in this recipe are chocolate and cinnamon sugar; you ma
 ###### Chocolate paste
 * 1 bar (113-115 g) 60-70% cacao dark chocolate 
 * 1 stick or 4 oz (114 g) salted butter (can do unsalted and adjust for salt but salted makes it easier)
-* 1 Tablespoon milk (could use water or your favorite liquer)
+* 1 Tablespoon milk (could use water or your favorite liquor)
 * 70 g confectioners sugar
 * 30 g cocoa powder 
 * Salt to taste (you'll need a few pinches if using unsalted butter)
@@ -45,7 +45,7 @@ Fillings I have included in this recipe are chocolate and cinnamon sugar; you ma
 
 ##### Make your filling (paste)
 ###### Chocolate paste
-1. Use double boiler method to melt the dark chocolate bar. Add stick of butter to melted chocolate. Then at tablespoon of liquid.  
+1. Use double boiler method to melt the dark chocolate bar. Add stick of butter to melted chocolate. Then add tablespoon of liquid.  
 2. Mix cocoa powder and confectioners suger in separate bowl, then combine with chocolate butter. Salt to taste (go by the pinch). Make sure this is at room temp before spreading. 
 ###### Cinnamon sugar paste
 1. Get butter to room temp. Mix brown sugar and cinnamon in a bowl. 
