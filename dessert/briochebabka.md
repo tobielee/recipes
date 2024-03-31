@@ -1,6 +1,6 @@
 # Twisted Brioche Rolls/Buns (variation on Babka)
 
-A sweet braided yeast-leavened bread, usually with some filling. Fillings I have included in this recipe are chocolate and cinnamon sugar; you may design your own filling as well (I just like chocolate and cinnamon sugar). Inspired by Jewish, Central/Eastern European Babka - though I'm using brioche base instead of challah.
+A sweet braided yeast-leavened bread, usually with some filling. Fillings I have included in this recipe are chocolate and cinnamon sugar; you may design your own filling as well (I just like chocolate and cinnamon sugar). Inspired by Jewish, Central/Eastern European Babka - note I'm using a brioche base instead of challah base.
 
 <p align="left">
   <img width="400"  src="https://github.com/tobielee/recipes/blob/main/images/briochebabka_choco.jpg">
