@@ -4,7 +4,7 @@ An enriched bread dough consisting of egg, butter, liquid (e.g. milk) and usuall
 
 ---
 
- Time required: 15-20 mins
+ Time required: prep 15-20 mins, bulk fermentation overnight is preferred
 
 ## Ingredients
 

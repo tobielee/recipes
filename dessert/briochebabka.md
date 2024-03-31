@@ -8,6 +8,8 @@ A sweet braided yeast-leavened bread, usually with some filling. Fillings I have
 </p>
 
 ---
+Time required: assuming brioche dough has been made, how long it takes to get room temp butter + 20 mins prep; 30-60 min second proof; 25-30 min bake
+
 ## Ingredients
 
 ##### Bread
