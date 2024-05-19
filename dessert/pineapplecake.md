@@ -14,6 +14,8 @@ Taiwanese butter pastry with pineapple jam filling.
 ##### Crust/shell
 * [Shortbread](../auxiliary/shortbread.md)
 
+Note this shortbread is probably a bit too delicate - may need to use all-purpose flour or knead the dough (or incorporate some egg white) for more structure.
+
 ##### Filling
 * 1 pineapple (750-800 g pineapple)
 * 20 g sugar
